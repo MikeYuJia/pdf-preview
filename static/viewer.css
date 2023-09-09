@@ -25,6 +25,10 @@
   }
 }
 
+body {
+  overflow: hidden;
+}
+
 .textLayer {
   position: absolute;
   text-align: initial;

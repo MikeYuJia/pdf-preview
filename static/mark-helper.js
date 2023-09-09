@@ -66,6 +66,7 @@ function init() {
     .notes-item {
         width: 100%;
         padding: 10px 10px 10px 0;
+        box-sizing: border-box;
     }
     .notes-add-dialog {
         position: absolute;
